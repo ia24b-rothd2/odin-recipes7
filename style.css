@@ -1,0 +1,16 @@
+h1{
+    color: black;
+}
+.titel {
+    color: aqua;
+}
+h2.green {
+    color: aquamarine;
+}
+body {
+    background-color: chocolate;
+}
+ul li.this {
+    color: aqua;
+    background-color: black;
+}
